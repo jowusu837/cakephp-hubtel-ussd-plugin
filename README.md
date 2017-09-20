@@ -37,7 +37,7 @@ class Page3Component extends UssdComponent {
 
 ## Reporting issues
 
-If you have a problem with this plugin, please open an issue on [GitHub](https://github.com/cakephp/debug_kit/issues).
+If you have a problem with this plugin, please open an issue on [GitHub](https://github.com/jowusu837/cakephp-hubtel-ussd-plugin/issues).
 
 ## Contributing
 
